@@ -1,0 +1,22 @@
+---
+title: "Literature Review/Citation Assignment"
+output: html_document
+bibliography: Exported Items.bib
+---
+  I have chosen to examine the correlation between alcohol consumption and abuse and social anxiety/phobia for my project. Despite the fact there has already been research done on this topic, I intend to make my own new discoveries. I have been using the keywords: *substance dependence*, *drinking motives*, *behaviorism*, *co-occurring disorders*, *social interaction*, and several others to help further my research. 
+
+After reading multiple articles, I have several main questions:
+
+1. Is alcohol the number one substance used by those with social anxiety?
+
+2. What personality traits trigger a predisposition to both alcohol disorders and social disorders?
+
+3. Are these disorders more likely to co-occur among college-age people than adolescents or adults?
+
+4. Which typically occurs first, substance abuse or social phobia?
+
+  I have noticed that most pre-existing research focuses on teenagers and young adults with social anxiety and alcohol consumption issues. However, I would like to examine this relationship on older adults as well. I currently do not know much about either of these conditions and am eager to learn more and establish my own conclusions through analysis.
+
+  I will complete my initial research using [@baillie_investigator-blinded_2013, @frojd_associations_2011, @dahne_early_2014, @fleury_predictors_2014, @villarosa_social_2014, @battista_effects_2012, @nicholls_when_2014]
+
+# References
